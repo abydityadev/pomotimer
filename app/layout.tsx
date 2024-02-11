@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     locale: 'in_ID',
     type: 'website',
     url: 'https://abyditya.my.id',
-    siteName: 'pomofocus.my.id',
+    siteName: 'pomotimer.my.id',
     images: [
       {
         url: 'https://media.discordapp.net/attachments/1201384062175150100/1206161568635813888/pomodoro.png?ex=65db007f&is=65c88b7f&hm=9a6c26012ed1d9ef2e1324657d16f5e88e445e7544b20e706c4d21fd10872ed9&=&format=webp&quality=lossless&width=1098&height=576',
